@@ -1,0 +1,5 @@
+D:\C# code\Project\Login\DAL\bin\Debug\DAL.dll
+D:\C# code\Project\Login\DAL\bin\Debug\DAL.pdb
+D:\C# code\Project\Login\DAL\obj\Debug\DAL.dll
+D:\C# code\Project\Login\DAL\obj\Debug\DAL.pdb
+D:\C# code\Project\Login\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

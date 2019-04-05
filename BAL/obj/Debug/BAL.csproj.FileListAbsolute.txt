@@ -1,0 +1,9 @@
+D:\C# code\Project\Login\BAL\bin\Debug\BAL.dll
+D:\C# code\Project\Login\BAL\bin\Debug\BAL.pdb
+D:\C# code\Project\Login\BAL\bin\Debug\BEL.dll
+D:\C# code\Project\Login\BAL\bin\Debug\DAL.dll
+D:\C# code\Project\Login\BAL\bin\Debug\BEL.pdb
+D:\C# code\Project\Login\BAL\bin\Debug\DAL.pdb
+D:\C# code\Project\Login\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\C# code\Project\Login\BAL\obj\Debug\BAL.dll
+D:\C# code\Project\Login\BAL\obj\Debug\BAL.pdb

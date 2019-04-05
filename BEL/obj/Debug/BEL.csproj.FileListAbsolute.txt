@@ -1,0 +1,5 @@
+D:\C# code\Project\Login\BEL\bin\Debug\BEL.dll
+D:\C# code\Project\Login\BEL\bin\Debug\BEL.pdb
+D:\C# code\Project\Login\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+D:\C# code\Project\Login\BEL\obj\Debug\BEL.dll
+D:\C# code\Project\Login\BEL\obj\Debug\BEL.pdb
